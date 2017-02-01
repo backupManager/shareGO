@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">3tCszXTFm3_FpIdnXn6JUgPvQ4hA4yOmz4Azz</string>
+    <string name="app_name">shareGo</string>
+</resources>
